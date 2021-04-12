@@ -7,3 +7,4 @@ Notes:
 ------
 - For implementing bayesian analysis, I've used the pymc3 package
 - There are multiple MCMC methods which is available in this package, but the best way (as its site has suggested!) is to leave this task to the program!
+- I've uploaded (and will upload!) the codes in 2 different version: .ipynb (for observing the results) and .py (for downloading and using codes)
