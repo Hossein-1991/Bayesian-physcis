@@ -1,7 +1,7 @@
 # Bayesian-methods-for-the-physical-science
 Description
 -----------
-Bayesian methods for the physical science is the title of a precious book which is full of bayesian examples in physics (with emphasis on astronomy). Originally this book is written in R (or more accurate, JAGS package). Since this realm of statistics is important for astronomy and cosmology, I've decided to convert some codes in this book to its python version. 
+Bayesian methods for the physical science (by Stefano Andreon and Brian Weaver) is the title of a precious book which is full of bayesian examples in physics (with emphasis on astronomy). Originally this book is written in R (or more accurate, JAGS package). Since this realm of statistics is important for astronomy and cosmology, I've decided to convert some codes in this book to its python version. 
 
 Folders:
 ----------
